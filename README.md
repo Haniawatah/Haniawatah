@@ -1,138 +1,49 @@
-# Hani-Awatah
-About My projects
-# 👋 Welcome to My GitHub Profile
+# Hani Awatah
 
-Hello! I'm **Hani Awatah**, a passionate developer and open-source enthusiast. This is where I showcase my projects, share my learning journey, and collaborate with the developer community.
+## 👋 Welcome to my GitHub profile
 
----
+I'm Hani Awatah, a developer who enjoys building web applications, learning new technologies, and collaborating on practical software projects. This profile highlights selected projects and the tools and languages I've been working with recently.
 
-## 🚀 About Me
+## 🧰 Languages and tools
 
-I'm a versatile developer with experience across multiple technologies and domains. I enjoy building web applications, exploring new technologies, and tackling challenging problems through code. My projects span from front-end web development to backend systems and educational tools.
+Based on the languages detected across my public repositories, I've been working with:
 
----
+- **Languages and web technologies:** JavaScript, Python, PHP, TypeScript, HTML, CSS, and SCSS/Sass
+- **Templates and supporting technologies:** Jinja, Mako, Shell, Makefile, and Dockerfile
+- **Frameworks and tools used in projects:** React, Node.js, Flask, Vite, MongoDB, SQLite, Docker, and GitHub Actions
 
-## 💻 Technical Stack
+Repository language statistics reflect code in those projects and don't necessarily indicate the amount of experience with each technology.
 
-### 🌐 Frontend & Design
-- **Core**: JavaScript (ES6+), HTML5, CSS3
-- **Styling**: SCSS / Sass, Twig Templating
-- **Focus**: Responsive Design, Interactive UI/UX
+## 🚀 Recent projects
 
-### ⚙️ Backend & Logic
-- **Languages**: PHP, Python
-- **Frameworks**: Flask (Python), Slim/Laminas (PHP)
-- **Tools**: Composer, Pip, NPM
+- **[microblog](https://github.com/Haniawatah/microblog)** — Python/Flask microblog coursework project covering application development, testing, and DevOps. This is a fork of [dbwebb-se/microblog](https://github.com/dbwebb-se/microblog).
+- **[dv1677-ht26-grupp2-backend](https://github.com/Haniawatah/dv1677-ht26-grupp2-backend)** — Team-built JavaScript/Node.js backend for a document editor, with a REST API, MongoDB, authentication, tests, and deployment setup.
+- **[dv1677-ht26-grupp2-frontend](https://github.com/Haniawatah/dv1677-ht26-grupp2-frontend)** — React and Vite frontend for the document editor, connected to the team's deployed backend.
+- **[webapp-project](https://github.com/Haniawatah/webapp-project)** — JavaScript PWA that visualizes delayed trains in Sweden on a map and in a list, with station search, location support, authentication, and saved favorites.
 
-### 🗄️ Database Management
-- **Relational (SQL)**: MySQL, MariaDB, PostgreSQL
-- **NoSQL**: MongoDB
-- **Architecture**: Database Design, CRUD Operations, Query Optimization
+## 🌟 Other selected projects
 
-### 🚀 Development Focus
-- Full-stack Web Applications
-- Scalable Data-driven Tools
-- Educational & Interactive Software Projects
-- 
-### 🛠️ DevOps & Workflow
-- **Containerization**: Docker, Docker Compose
-- **Version Control**: Git, GitHub
-- **Environment**: Linux/Unix Shell, Virtual Environments
+- **[Graph-Editor](https://github.com/Haniawatah/Graph-Editor)** — Interactive graph editor for 3D and motion graphics.
+- **[vteam7-project](https://github.com/Haniawatah/vteam7-project)** — Team project for Svenska Elsparkcyklar AB, focused on an e-scooter management system.
+- **[bsv-edutask](https://github.com/Haniawatah/bsv-edutask)** — Python educational project focused on software testing.
+- **[mvc-me-report](https://github.com/Haniawatah/mvc-me-report)** — PHP and Twig MVC reporting project.
+- **[Design-2024](https://github.com/Haniawatah/Design-2024)** — Web design project using CSS and related web technologies.
+- **[Design-Portfolio](https://github.com/Haniawatah/Design-Portfolio)** — Portfolio and design work using SCSS.
+- **[JS-Project](https://github.com/Haniawatah/JS-Project)** — Interactive JavaScript project.
+- **[build-a-website](https://github.com/Haniawatah/build-a-website)** and **[Museum](https://github.com/Haniawatah/Museum)** — PHP-based web projects.
 
----
+## 📊 GitHub stats
 
-## 🎯 Featured Projects
+![Hani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haniawatah&show_icons=true&theme=radical)
 
-### 🌐 Web & Frontend Projects
-- **[Graph-Editor](https://github.com/Haniawatah/Graph-Editor)** - An interactive graph editor for 3D and motion graphics, featuring keyframe interpolation, timing controls, and visual curve adjustment
-- **[webapp-lager](https://github.com/Haniawatah/webapp-lager)** - A modern web application built with JavaScript, CSS, and HTML
-- **[JS-Project](https://github.com/Haniawatah/JS-Project)** - Interactive JavaScript project showcasing front-end development skills
+## 🌱 What I'm learning
 
-### 🏗️ Full-Stack & Backend Projects
-- **[mvc-me-report](https://github.com/Haniawatah/mvc-me-report)** - An MVC-based reporting system built with PHP and Twig templating
-- **[Design-2024](https://github.com/Haniawatah/Design-2024)** - A modern design project combining PHP, JavaScript, and Twig
-- **[build-a-website](https://github.com/Haniawatah/build-a-website)** - My first web project, demonstrating PHP and CSS fundamentals
-- **[Museum](https://github.com/Haniawatah/Museum)** - A museum information system built with PHP and CSS
+I'm continuing to build my skills in JavaScript frameworks, Python development, software testing, and web performance through coursework and hands-on projects.
 
-### 🎓 Educational & Testing Projects
-- **[bsv-edutask](https://github.com/Haniawatah/bsv-edutask)** - A Python-based educational project for learning testing techniques in the PA1417 course
-- **[vteam7-project](https://github.com/Haniawatah/vteam7-project)** - A team project for "Svenska Elsparkcyklar AB"
+## 💬 Get in touch
 
-### ### 🚲 vteam7-project - Svenska Elsparkcyklar AB
-**Team Project | E-Scooter Management System**
-
-- **Client**: Svenska Elsparkcyklar AB
-- **License**: MIT License
-- **Status**: Active Development
-- **Repository**: [vteam7-project](https://github.com/Haniawatah/vteam7-project)
-
-**Project Overview:**
-A comprehensive team project developed for "Svenska Elsparkcyklar AB" to create an electric scooter (e-bike/e-scooter) management system. This collaborative project demonstrates full-stack development capabilities and real-world business solutions.
-
-**Key Highlights:**
-- 🤝 Team-based development with collaborative workflows
-- 🛴 E-scooter fleet management and tracking system
-- 💼 Real-world client project for a Swedish e-mobility company
-- 📅 Recently updated (January 2026)
-- 🔧 Flexible development with multiple merge strategies
-- 📋 Issue tracking and project management enabled
-
-**Tech Stack:**
-- Full-stack implementation
-- Multiple programming languages and frameworks
-- RESTful API integration capabilities
-- Project management tools
-  
-🛴 vteam7-project - Svenska Elsparkcyklar AB
-Lead Developer & Architect | Fullstack E-Scooter System
-
-Role: Primary developer responsible for system architecture and core implementation.
-
-Infrastructure: Engineered a fully containerized environment using Docker and Docker Compose, ensuring seamless orchestration of frontend, backend, and database services.
-
-Fullstack Delivery: Led the development of the Node.js REST API and React frontend, integrating real-time data flows for fleet management.
-
-Technical Ownership: Designed the database schemas and the simulation engine capable of handling 1000+ concurrent entities.
-
-Status: Core features completed and merged to main (2026).
-
-Tech Stack: Node.js, React, MongoDB, Docker, REST APIs.
-Explore Repository
-**Getting Started:**
-Visit the [repository](https://github.com/Haniawatah/vteam7-project) to explore the codebase, contribute, or learn more about the project structure.
----
-
-## 📊 GitHub Stats
-
-![Haniawatah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haniawatah&show_icons=true&theme=radical)
+I'm open to collaboration, feedback, and conversations about software development. Feel free to explore my repositories and connect through GitHub.
 
 ---
 
-## 🌱 Currently Learning
-
-I'm always exploring new technologies and best practices to improve my craft. I'm particularly interested in:
-- Advanced JavaScript frameworks and patterns
-- Python development and automation
-- Software testing and quality assurance
-- Web performance optimization
-
----
-
-## 💬 Get in Touch
-
-I'm always open to collaboration, feedback, and interesting conversations about development!
-
-
-
----
-
-## 📈 Support My Work
-
-If you find my projects useful or enjoy my contributions to the open-source community, consider:
-- ⭐ Starring my repositories
-- 🔄 Contributing to my projects
-- 📢 Sharing my work with others
-
----
-
-**Thank you for visiting! Happy coding! 🎉**
+Thanks for visiting! Happy coding. 🎉
